@@ -2,7 +2,7 @@
 
 <h2>Terribly Tiny Tales Profile App</h2>
 This project is a ReactJS based frontend application developed for the Terribly Tiny Tales assignment
-<h3>You can See My Deployed Link <a href="https://terribly-tiny-tales-one.vercel.app/"></a>Here</h3>
+<h3>You can See My Deployed Link <a href="https://terribly-tiny-tales-one.vercel.app/">"Here"</a></h3>
 
 <h2>Overview</h2>
 The assignment involves creating a profile screen similar to <a href="https://www.terriblytinytales.com/profile.jpeg">this sample screenshot</a> from mobile view. The profile data is hardcoded in a local JSON, and no backend is required. The goal is to ensure consistent rendering across different mobile devices.
@@ -18,7 +18,8 @@ Install dependencies:<br>
 npm install<br>
 
 <h2>Project Structure</h2><br>
-The project follows a standard ReactJS project structure. Key directories and files include:<br>
+The project follows a standard ReactJS project structure. Key directories and files include:
+<br>
 
 src/: Contains the source code of the application.<br>
 public/: Includes public assets.<br>
