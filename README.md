@@ -8,19 +8,19 @@ This project is a ReactJS based frontend application developed for the Terribly 
 The assignment involves creating a profile screen similar to <a href="https://www.terriblytinytales.com/profile.jpeg">this sample screenshot</a> from mobile view. The profile data is hardcoded in a local JSON, and no backend is required. The goal is to ensure consistent rendering across different mobile devices.
 
 <h2>Installation</h2>
-Clone the repository:
-git clone https://github.com/Vaishali-tyagi-21/Terribly-Tiny-Tales
+Clone the repository: <br>
+git clone https://github.com/Vaishali-tyagi-21/Terribly-Tiny-Tales <br>
 
-Navigate to the project directory:
-cd profile-app
+Navigate to the project directory:<br>
+cd profile-app<br>
 
-Install dependencies:
-npm install
+Install dependencies:<br>
+npm install<br>
 
-<h2>Project Structure</h2>
-The project follows a standard ReactJS project structure. Key directories and files include:
+<h2>Project Structure</h2><br>
+The project follows a standard ReactJS project structure. Key directories and files include:<br>
 
-src/: Contains the source code of the application.
-public/: Includes public assets.
-package.json: Defines project metadata and dependencies.
-README.md: The file you are currently reading.
+src/: Contains the source code of the application.<br>
+public/: Includes public assets.<br>
+package.json: Defines project metadata and dependencies.<br>
+README.md: The file you are currently reading.<br>
