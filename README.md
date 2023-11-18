@@ -12,7 +12,7 @@ Clone the repository: <br>
 git clone https://github.com/Vaishali-tyagi-21/Terribly-Tiny-Tales <br>
 
 Navigate to the project directory:<br>
-cd profile-app<br>
+cd Terribly-Tiny-Tales-main<br>
 
 Install dependencies:<br>
 npm install<br>
