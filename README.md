@@ -9,13 +9,17 @@ The assignment involves creating a profile screen similar to <a href="https://ww
 
 <h2>Installation</h2>
 Clone the repository: <br>
-git clone https://github.com/Vaishali-tyagi-21/Terribly-Tiny-Tales <br>
+git clone https://github.com/Vaishali-tyagi-21/Terribly-Tiny-Tales .
+<br>
 
 Navigate to the project directory:<br>
 cd Terribly-Tiny-Tales-main<br>
 
 Install dependencies:<br>
 npm install<br>
+
+Start With : <br>
+npm start <br>
 
 <h2>Project Structure</h2><br>
 The project follows a standard ReactJS project structure. Key directories and files include:
